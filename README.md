@@ -1,4 +1,4 @@
-# AI-Music-Generator
+# AI-Music
 ## Acknowledgments
 The Maestro dataset's developers and the Google Magenta team's work are expanded upon by the AI-Music-Generator project.  This project would not have been possible without their efforts in creating and curating the dataset.
 ## Project Overview:
